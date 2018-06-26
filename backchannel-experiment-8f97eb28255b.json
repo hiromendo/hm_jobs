@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "backchannel-experiment",
+  "private_key_id": "8f97eb28255b48a8ed434a9c3bfbf5f8b0355895",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj1C7I63l8soVg\nhhfBaoeIJaIpPQ7OOd3v8StWozbqsuSM/26Ugv02vpUrDf4SddNhdaZYKFT5zt/u\ngp1p0S3GFebHKb9Pm+kk86YyAsqrJgyMmYHaeK+SsNGXQDz6PICZNAtmf9Q/Y5Ah\nsptH1RB3EF7TgFIwOIn9/urtI//oYvUkRZBvMlZeY8SfvSiQzxIql7qS2HjE+I79\no0p2xILsekvveMjjSDqkwhbK6YG1Tuq0wHBPXdD/E41c1S6r8njUgJiL8p3H/d2L\nkbxaaf+qXxWtB+mY6R3zXPxfFReeMr6zhJzZrKkodOg81DZo1JUG9H4SxGAVyUtH\nEyxigXv9AgMBAAECggEAGY7Qfae+nCV9iUFiE1p7KlI0qhpMZP/CD9yf1jRALP0b\niqOOrLyCpDe3LbBRIrAe+eVQvhAMsawEY0EdLZTkfzKLfiaVIeZAyPL5ynOFCo41\nBvort9l8CnZrPB1ZZfBqX3wvCx6GDh2KLreeYeZrWyfCo1wxdjRb0rQiEjy7f5Uw\nb2ZegPRBHXHFWBO71lrnZASlhgVI6d9+BCJebMSaQMz2J5mpb8gXdxREPGePSVuo\nxLtwmxzedkzDt+4KFLjWKNm+dYwVRQ9O/7HDH/MI3xZY8BHJjMb9mw/ICFXvfMzz\nk1iouyvSxgff+cG5M7lLlPuYvsbdqdeh2qL7v8RKAQKBgQDdxZNdavYxi8pY9ym/\nsorUWlML98r7CKt3VhujSv59HdaKPA3Yq07Z0s8cZVWPWqq4RduVr5dpN+xAe/5e\nhRJK8V5ViCvOPlumzIfTVN/LElC4bZz/8hS3mrbgBtStADdnhqT/KsBXh5zVljhp\nmEnYlPqtU4pmm3NDM858Xw0zWQKBgQC9HTlDQkNNpNsNqloFqTcTxloTsmtDqnaP\nWcx/IUgM4hb2eCEyfHFicYFRUNnDdTWSLEjgeC0gYx3VxlqRlcaq1x4SjoekPcz6\nrWRhkTRAKLOfMLn+67lMQRPOBPjovuwbeXzCcen3cOclcHtGd/DpwlJpIDAMSiDb\nJfoC38wtRQKBgQDW/Yt/24pxu6/dETbS1NYLSMkLaBvJwrzfAoXmhnQxfLSX6+IM\ncv4M4nXPdFk+kMnBvE9ETCY/ZWxNkyakIOL77gPibRDybrdQ+ySNddFCPy4rrG+w\nG9GDsKOqiFSypewQG5Jmn944vIoI8QkdLPoh0UM2ti8Mi5RwyI9bOJZGeQKBgHbr\nOIX11hKuFt06AQ/MP4kc0qnOKStMtu8fvbs3t3H6fgwQsHdpz3bi/zmeCMGjI8O+\nOzmD+ISEL0+tQmiH8XyedxeeLud1wT7k59l+kIfD0GfLITqPCl9MEOMdN1RMMnZ4\nZ55yOXjSs1dUqwA+De1At8fJaM1hk9WaxOMnzeGtAoGBALMZdEEmj47CmGijQCiX\nk7lmws8nRQKPq76VD0BXImfMj1yGVsi7v/PCbMVOXXnjtrHUOtnrLfojYbDWzyDa\nKGXQ+2pVjk8sbeuOl0O664sIgyx51GqmOD0UXjZarf/FEA9Ot2Ulz08h3g7quKai\nlqyN3UveqxYXcKghkglkUmHY\n-----END PRIVATE KEY-----\n",
+  "client_email": "store-key@backchannel-experiment.iam.gserviceaccount.com",
+  "client_id": "110953288868575203584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/store-key%40backchannel-experiment.iam.gserviceaccount.com"
+}
